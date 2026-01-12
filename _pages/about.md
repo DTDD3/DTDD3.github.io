@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-E-Mail: PandaCYT@163.com
+E-Mail: PandaCYT@163.com   or   TeoChen@student.gdufe.edu.cn
